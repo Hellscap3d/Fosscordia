@@ -1,5 +1,5 @@
-# Discordia
-
+# Fosscordia
+# Not being developed rn, am working on something else.
 **Discord API library written in Lua for the Luvit runtime environment**
 
 ### Introduction
